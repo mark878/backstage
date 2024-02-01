@@ -1,5 +1,13 @@
 # @backstage/app-defaults
 
+## 1.4.8-next.2
+
+### Patch Changes
+
+- 214f2da: Fix invalid HTTP status code 501 in Error Page
+- Updated dependencies
+  - @backstage/core-components@0.14.0-next.1
+
 ## 1.4.8-next.1
 
 ### Patch Changes

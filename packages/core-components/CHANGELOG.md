@@ -1,5 +1,11 @@
 # @backstage/core-components
 
+## 0.14.0-next.1
+
+### Patch Changes
+
+- 214f2da: Fix invalid HTTP status code 501 in Error Page
+
 ## 0.14.0-next.0
 
 ### Minor Changes

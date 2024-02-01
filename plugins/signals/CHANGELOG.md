@@ -1,5 +1,14 @@
 # @backstage/plugin-signals
 
+## 0.0.1-next.2
+
+### Patch Changes
+
+- 447d210: Fix disconnect loop on server start
+- Updated dependencies
+  - @backstage/plugin-signals-react@0.0.1-next.2
+  - @backstage/core-components@0.14.0-next.1
+
 ## 0.0.1-next.1
 
 ### Patch Changes

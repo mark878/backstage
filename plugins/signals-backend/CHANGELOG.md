@@ -1,5 +1,13 @@
 # @backstage/plugin-signals-backend
 
+## 0.0.1-next.2
+
+### Patch Changes
+
+- 447d210: Fix disconnect loop on server start
+- Updated dependencies
+  - @backstage/plugin-signals-node@0.0.1-next.2
+
 ## 0.0.1-next.1
 
 ### Patch Changes

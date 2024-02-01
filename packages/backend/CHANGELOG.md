@@ -1,5 +1,19 @@
 # example-backend
 
+## 0.2.92-next.2
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/plugin-tech-insights-backend-module-jsonfc@0.1.42-next.2
+  - @backstage/plugin-signals-backend@0.0.1-next.2
+  - @backstage/plugin-signals-node@0.0.1-next.2
+  - @backstage/plugin-tech-insights-backend@0.5.24-next.2
+  - @backstage/plugin-tech-insights-node@0.4.16-next.2
+  - @backstage/plugin-app-backend@0.3.58-next.2
+  - example-app@0.2.92-next.2
+  - @backstage/plugin-scaffolder-backend@1.21.0-next.2
+
 ## 0.2.92-next.1
 
 ### Patch Changes

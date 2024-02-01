@@ -1,5 +1,11 @@
 # @backstage/plugin-scaffolder-backend-module-gerrit
 
+## 0.1.2-next.2
+
+### Patch Changes
+
+- 8b269e1: Provide default branch when creating repositories.
+
 ## 0.1.2-next.1
 
 ### Patch Changes

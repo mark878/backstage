@@ -1,5 +1,13 @@
 # @backstage/plugin-dynatrace
 
+## 8.0.4-next.2
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/core-components@0.14.0-next.1
+  - @backstage/plugin-catalog-react@1.9.4-next.2
+
 ## 8.0.4-next.1
 
 ### Patch Changes

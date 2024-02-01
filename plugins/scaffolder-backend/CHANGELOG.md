@@ -1,5 +1,12 @@
 # @backstage/plugin-scaffolder-backend
 
+## 1.21.0-next.2
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/plugin-scaffolder-backend-module-gerrit@0.1.2-next.2
+
 ## 1.21.0-next.1
 
 ### Minor Changes

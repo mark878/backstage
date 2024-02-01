@@ -1,5 +1,11 @@
 # @backstage/plugin-app-backend
 
+## 0.3.58-next.2
+
+### Patch Changes
+
+- 998ccf6: Support injecting config multiple times in a single bundle
+
 ## 0.3.58-next.1
 
 ### Patch Changes

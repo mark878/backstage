@@ -1,5 +1,14 @@
 # @backstage/plugin-github-actions
 
+## 0.6.11-next.2
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/core-components@0.14.0-next.1
+  - @backstage/integration-react@1.1.24-next.0
+  - @backstage/plugin-catalog-react@1.9.4-next.2
+
 ## 0.6.11-next.1
 
 ### Patch Changes

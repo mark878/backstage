@@ -1,5 +1,12 @@
 # @backstage/plugin-graphql-voyager
 
+## 0.1.12-next.1
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/core-components@0.14.0-next.1
+
 ## 0.1.12-next.0
 
 ### Patch Changes
